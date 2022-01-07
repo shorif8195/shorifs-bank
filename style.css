@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 100px;
+}
+.bt-primary{
+    width: 80px;
+    border: none !important;
+    outline: none !important;
+    border-radius: 3px;
+}
+div .form{
+   box-shadow: 5px 5px 10px gray;
+   border-radius: 5px;
+   margin: 50px 0;
+   padding: 40px;
+}
+#transaction-area{
+    display: none;
+}
+.status{
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+
+}
+.diposite{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
